@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:geisonbiazus/force_integrator.git
+  remote: https://github.com/geisonbiazus/force_integrator.git
   revision: 45f3934d899e56965d8058c2026dd2d95d26f929
   specs:
     force_integrator (0.0.1)
