@@ -32,7 +32,7 @@ group :test, :development do
 	gem 'factory_girl_rails'
 end
 
-gem 'force_integrator', git: 'git@github.com:geisonbiazus/force_integrator.git'
+gem 'force_integrator', git: 'https://github.com/geisonbiazus/force_integrator.git'
 
 gem 'thin'
 
